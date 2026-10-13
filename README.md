@@ -1,4 +1,4 @@
-I have developed a financial valuation application using Python and Streamlit. The application allows users to value various financial instruments, including:
+I have developed a financial valuation application using Python and Streamlit. The application allows users to value many financial instruments, including:
 -Stocks
 -Bonds
 -Futures
